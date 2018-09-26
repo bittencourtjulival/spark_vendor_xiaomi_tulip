@@ -1129,4 +1129,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     vendor.qti.gnss@3.0-service \
     libthermalclient \
-    FingerprintExtensionService
+    FingerprintExtensionService \
+    chargeonlymode
