@@ -1114,3 +1114,4 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     FingerprintExtensionService \
     chargeonlymode
+
